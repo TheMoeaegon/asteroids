@@ -1,5 +1,7 @@
 # Asteroids
 
+**Build notes:** [Building Asteroids — Engineering Notebook](https://github.com/TheMoeaegon/engineering-notebook/blob/master/build-asteroids.md)
+
 A clone of the classic arcade game **Asteroids**, built with Python and Pygame as a
 guided project on [boot.dev](https://www.boot.dev/courses/build-asteroids-python).
 
